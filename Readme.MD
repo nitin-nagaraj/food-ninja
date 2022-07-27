@@ -4,7 +4,8 @@
 A brief and concise website named FoodNinja where users can find recepies and experiment using the recepie available.
 
 
-
+##Live Demo 
+[FoodNinja](https://foodninja-website.netlify.app/)
 
 ## Tech Stack
 
